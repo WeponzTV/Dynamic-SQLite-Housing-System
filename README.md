@@ -1,4 +1,4 @@
-PREVIEW: ...
+PREVIEW: https://youtu.be/ayBQ79nFcOE
 
 REQUIREMENTS:
 - <a href="https://github.com/samp-incognito/samp-streamer-plugin">Streamer Plugin</a>
