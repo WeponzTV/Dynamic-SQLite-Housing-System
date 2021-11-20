@@ -6,7 +6,7 @@ FEATURES:
 - Access to House Menu with Safe to save money!
 - Sell houses at 100% the value to profit from interest!
 
-Note: Login as RCON admin and type /hcmds
+Usage: Login as RCON admin and type /hcmds
 
 REQUIREMENTS:
 - <a href="https://github.com/samp-incognito/samp-streamer-plugin">Streamer Plugin</a>
